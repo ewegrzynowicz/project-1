@@ -1,0 +1,20 @@
+[
+  {
+    "name": "spooky",
+    "file": "samples/spooky.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "piano",
+    "file": "samples/piano.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "typing",
+    "file": "samples/typing.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  }
+]
